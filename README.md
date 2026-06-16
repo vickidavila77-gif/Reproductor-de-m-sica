@@ -1,15 +1,17 @@
-# MediaPlay Pro - Reproductor de Musica y Video
+# Aurora Player
 
-Reproductor de musica y video con diseno profesional y colores calidos.
+Reproductor de musica con diseno profesional estilo Aurora Player.
 
 ## Caracteristicas
 
-- Reproductor de musica con lista de reproduccion
-- Reproductor de video integrado
-- Arrastrar y soltar archivos
-- Control de volumen
+- Diseno oscuro con acentos rosa/rose
+- Sidebar izquierdo con Library y Explore
+- Lista de canciones estilo tabla con columnas: #, Title, Artist, Album, Duration, Love
+- Seccion "Up Next" con proximas canciones
+- Barra de reproduccion inferior con controles completos
+- Drag & drop para agregar archivos
 - Modo aleatorio y repeticion
-- Busqueda de archivos
+- Control de volumen
 - Atajos de teclado (Espacio = play/pause)
 
 ## Formatos Soportados
@@ -19,13 +21,13 @@ Reproductor de musica y video con diseno profesional y colores calidos.
 
 ## Como Usar
 
-1. Abre eproductor.html en tu navegador
-2. Arrastra archivos o haz clic en "Seleccionar Archivos"
+1. Abre reproductor.html en tu navegador
+2. Arrastra archivos de musica o haz clic en el boton +
 3. Haz clic en una cancion para reproducir
-4. Disfruta tu musica y videos
+4. Disfruta
 
 ## Tecnologias
 
 - HTML5
-- CSS3 (con variables CSS y gradients)
+- CSS3 (variables CSS, grid, flexbox)
 - JavaScript vanilla (sin dependencias)
